@@ -1,0 +1,30 @@
+FREQUENTLY ASKED QUESTIONS
+
+1. Is Worms Wars free?
+
+    Yes. Feel free to copy, modify, and redistribute it but do not market it and give me credit
+    because I made it.
+
+2. The worm is kind of hard to eat. Any advice?
+
+    Go for the tail and keep you tail away from the worm.
+
+3. Can I run this game on Linux?
+
+    You will need to compile it with Allegro before you can run it on Linux.
+
+4. How many levels are there?
+
+    None. Your mission is to eat your enemy worm - that's it.
+
+5. I found a bug?
+
+    Tell me: lamini.1@osu.edu.
+
+6. Which worm am I?
+
+    You are the green worm. The yellow worm is your opponent. Get him!
+
+7. Will you be making a multiplayer version?
+
+    I want to but for now I'm not sure which library is best for networking.

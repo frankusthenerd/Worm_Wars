@@ -1,0 +1,6 @@
+BASIC CONTROLS
+
+ENTER - starts the game/restart the game after a game over
+P - pauses the game
+ARROWS - steers the worm in 4 different directions
+Q - quit the game

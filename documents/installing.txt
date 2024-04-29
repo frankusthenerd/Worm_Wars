@@ -1,0 +1,12 @@
+HOW TO INSTALL
+
+Windows:
+
+Run worm_wars.exe.
+
+Compiling:
+
+You will need a C++ compiler (like G++) and Allegro. Once you have that stuff installed
+you can compile the game by moving into the source directory and running make. You should
+get an executable. For other operating systems like Linux you may need to change the
+makefile.

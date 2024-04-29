@@ -1,0 +1,8 @@
+AUTHOR
+
+Francois Lamini (lamini.1@osu.edu)
+
+The concept of Worm Wars came, of course, from Nibbles or Snakes. Like these game the worms are
+involved in eating something to grow. However, no fruits are eaten. Instead worms are pitted
+against eachother and must eat the other completely in order to win. As a side note I wrote
+Worm Wars in C++.
